@@ -1,0 +1,102 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "short_summary": "In 1930s Alabama, Scout Finch witnesses prejudice and injustice as her father Atticus defends a black man falsely accused of assault.",
+    "themes": ["justice", "empathy", "racism", "moral integrity"]
+  },
+  {
+    "title": "The Great Gatsby",
+    "short_summary": "Jay Gatsby’s lavish lifestyle hides an obsession with Daisy Buchanan, exposing the illusions of love and the moral emptiness of wealth.",
+    "themes": ["American Dream", "love", "illusion", "decay of society"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "short_summary": "Elizabeth Bennet navigates love, pride, and misunderstandings with Mr. Darcy while challenging societal norms in Regency England.",
+    "themes": ["love", "marriage", "pride", "social class"]
+  },
+  {
+    "title": "Moby-Dick",
+    "short_summary": "Captain Ahab obsessively hunts the white whale, leading the Pequod’s crew into peril and reflections on fate and madness.",
+    "themes": ["obsession", "revenge", "fate", "humanity vs. nature"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "short_summary": "Holden Caulfield, a disillusioned teenager, wanders New York City reflecting on adulthood, loss, and his search for authenticity.",
+    "themes": ["alienation", "identity", "youth", "authenticity"]
+  },
+  {
+    "title": "Brave New World",
+    "short_summary": "In a future of engineered stability, individuality and freedom are sacrificed, raising questions about science, control, and humanity.",
+    "themes": ["freedom", "technology", "conformity", "loss of humanity"]
+  },
+  {
+    "title": "Jane Eyre",
+    "short_summary": "Orphaned Jane Eyre grows into an independent woman, facing love, betrayal, and moral dilemmas as a governess at Thornfield Hall.",
+    "themes": ["love", "independence", "morality", "self-respect"]
+  },
+  {
+    "title": "Animal Farm",
+    "short_summary": "Farm animals overthrow their owner for equality, but the pigs turn the revolution into tyranny, exposing the corruption of power.",
+    "themes": ["power", "corruption", "tyranny", "political allegory"]
+  },
+  {
+    "title": "The Hobbit",
+    "short_summary": "Bilbo Baggins joins dwarves on a quest to reclaim their treasure from the dragon Smaug, discovering courage and friendship.",
+    "themes": ["friendship", "courage", "adventure", "fantasy"]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "short_summary": "In a world where books are outlawed, fireman Guy Montag questions conformity and seeks freedom through forbidden ideas.",
+    "themes": ["censorship", "freedom", "knowledge", "resistance"]
+  },
+  {
+    "title": "1984",
+    "short_summary": "A dystopian society of surveillance and propaganda where Winston Smith struggles to preserve truth and individuality.",
+    "themes": ["freedom", "social control", "manipulation", "totalitarianism"]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "short_summary": "Harry discovers he is a wizard and attends Hogwarts, forming friendships and facing the first shadows of evil.",
+    "themes": ["friendship", "magic", "identity", "courage"]
+  },
+  {
+    "title": "The Alchemist",
+    "short_summary": "Santiago follows his personal legend on a spiritual journey to Egypt, learning about destiny and dreams.",
+    "themes": ["destiny", "dreams", "self-discovery", "spirituality"]
+  },
+  {
+    "title": "Dune",
+    "short_summary": "On Arrakis, Paul Atreides navigates betrayal, ecology, and messianic prophecy while fighting for survival.",
+    "themes": ["power", "ecology", "mysticism", "politics"]
+  },
+  {
+    "title": "The Little Prince",
+    "short_summary": "A poetic exploration of friendship and the meaning of life seen through a child’s perspective.",
+    "themes": ["friendship", "innocence", "responsibility", "love"]
+  },
+  {
+    "title": "The Book Thief",
+    "short_summary": "In Nazi Germany, Liesel finds refuge in books and the kindness of others while facing the horrors of war.",
+    "themes": ["war", "compassion", "humanity", "power of words"]
+  },
+  {
+    "title": "The Kite Runner",
+    "short_summary": "Amir and Hassan’s friendship in Afghanistan is shattered by betrayal, leading Amir on a path toward redemption.",
+    "themes": ["friendship", "guilt", "betrayal", "forgiveness"]
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "short_summary": "Marie-Laure, a blind French girl, and Werner, a German boy, endure World War II on parallel paths that intertwine.",
+    "themes": ["war", "resilience", "humanity", "hope"]
+  },
+  {
+    "title": "The Name of the Wind",
+    "short_summary": "Kvothe tells his life story of music, magic, and his quest for knowledge and truth about mysterious forces.",
+    "themes": ["knowledge", "fame", "magic", "identity"]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "short_summary": "A fellowship unites to destroy the One Ring and save Middle-earth from darkness.",
+    "themes": ["friendship", "sacrifice", "good vs. evil", "hope"]
+  }
+]
