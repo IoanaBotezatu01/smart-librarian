@@ -2,7 +2,7 @@
 
 1. **Clone the Repository**
     ```bash
-    git clone [https://github.com/IoanaBotezatu01/smart-librarian](https://github.com/IoanaBotezatu01/smart-librarian)
+    git clone https://github.com/IoanaBotezatu01/smart-librarian
     cd smart-librarian
     ```
 
