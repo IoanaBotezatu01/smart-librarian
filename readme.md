@@ -1,3 +1,7 @@
+# Smart Librarian – AI Book Recommender
+A chatbot that recommends books based on user interests using OpenAI GPT + RAG (ChromaDB).
+Recommendations are strictly from your curated dataset, and each suggestion is enriched with a detailed summary provided through a custom tool.
+
 # Running the Project
 
 1. **Clone the Repository**
